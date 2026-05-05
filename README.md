@@ -21,12 +21,10 @@
 | **Databases** | MongoDB, PostgreSQL |
 | **DevOps/Tools** | Git, GitHub, Postman |
 
-### 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Juyal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Juyal&layout=compact&theme=tokyonight)
+
 
 ### 📬 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/AryanJuyal)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aryan-juyal)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aryanjuyal70@gmail.com)
 
 ---
