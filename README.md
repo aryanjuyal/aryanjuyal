@@ -1,7 +1,7 @@
 # Hi there, I'm Aryan Juyal 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+Student+@+AKGEC;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Guitarist+and+Tech+Society+Member" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+Student+@+AKGEC;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Tech+Society+Member" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 
 ### 📬 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aryanjuyal)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aryan-juyal)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aryanjuyal70@gmail.com)
 
 ---
